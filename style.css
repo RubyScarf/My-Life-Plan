@@ -24,7 +24,7 @@ li{
 a{
   font-size:100px;
   font-weight:bolder;
-  justify-content: center;
+  padding: 50% 50% 50% 50%;
 }
 /*------------------------ DIVS ------------------------*/
 div#academic{
