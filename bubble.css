@@ -188,9 +188,6 @@ h1,h2{
   color:white;
   font-size:50px;
 }
-a{
-  color:red
-}
 a:hover{
   color:green
   background-color:darkblue
