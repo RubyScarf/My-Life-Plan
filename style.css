@@ -18,18 +18,28 @@ h2{
 /*------------------------ DIVS ------------------------*/
 div#academic{
   background-color:#87cefa;
+}
+
+.academic{
   color:#783105;
 }
 
 div#personal{
   background-color:#ff4061;
+}
+
+.personal{
   color:#00bf9e;
 }
 
 div#social{
   background-color:#fdfd96;
+}
+
+.social{
   color:#020269;
 }
+
 #academic, #personal, #social{
   padding:4rem 5rem 4rem 5rem ;
   width:100%;
