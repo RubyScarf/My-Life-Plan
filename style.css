@@ -17,6 +17,10 @@ body{
   font-family:Copperplate;
 }
 
+li{
+  text-align:center;
+}
+
 a{
   font-size:100px;
   font-weight:bolder;
