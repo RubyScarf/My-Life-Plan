@@ -29,7 +29,7 @@ div#social{
 }
 #academic, #personal, #social{
   padding:2rem 5rem 2rem 5rem ;
-  width:5rem;
+  width:100%;
   height:2rem;
 }
 /*------------------------ Footer ------------------------*/
