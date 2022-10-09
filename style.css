@@ -3,7 +3,11 @@ body{
   text-align:center;
   color:white;
 }
-/*------------------------ Body ------------------------*/
+
+header{
+  margin:8% 0% 8%;
+}
+
 h6{
   font-size:5px
 }
@@ -46,6 +50,7 @@ div#social{
   height:60%;
   margin:5% 0% 5%
 }
+/*------------------------ /Body ------------------------*/
 /*------------------------ Footer ------------------------*/
 #page-container {
   position: relative;
@@ -62,4 +67,4 @@ div#social{
   width: 100%;
   height: 2.5rem;            /* Footer height */
 }
-/*------------------------ Footer ------------------------*/
+/*------------------------ /Footer ------------------------*/
