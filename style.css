@@ -67,7 +67,8 @@ div#bucket-list{
 .academic, .personal, .social, .bucket{
   position: absolute;
   text-align: center;
-  font-size: 18px;
+  font-size: 25px;
+  top:50%;
 }
 /*------------------------ Footer ------------------------*/
 #page-container {
