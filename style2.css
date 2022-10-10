@@ -3,8 +3,8 @@ body{
   color:white;
   font-size:50px;
 }
-body, ol, ul{
-  text-align:center;
+body{
+  padding:0px 45%
 }
 ol{
   color:#4ec946;
