@@ -26,3 +26,16 @@ h4{
   font-family:timesnewroman;
   text-align:center;
 }
+a:hover{
+  transition: 2s;
+  color:gray;
+}
+transition{
+  font-size:20px
+  color:NeonYellow;
+}
+a{
+  color:purple;
+  font-size:20px;
+  transition: 2s
+}
