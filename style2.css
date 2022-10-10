@@ -2,6 +2,8 @@ body{
   background-color:black;
   color:white;
   font-size:50px;
+}
+body, ol, ul{
   text-align:center;
 }
 ol{
