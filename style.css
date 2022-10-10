@@ -25,7 +25,7 @@ li{
 a{
   font-size:80px;
   font-weight:bolder;
-  margin: 40% 0% 40% 0%;
+  margin: 35% 0% 35% 0%;
   text-align:center;
 }
 /*------------------------ DIVS ------------------------*/
@@ -79,7 +79,7 @@ div#bucket-list{
     display: inline-table;
 }
 a.academic, a.personal, a.social, a.bucket{
-  margin:40%
+  margin:35%
 }
 
 /*------------------------ Footer ------------------------*/
