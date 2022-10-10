@@ -67,7 +67,7 @@ div#bucket-list{
 .academic, .personal, .social, .bucket{
   position: absolute;
   text-align: center;
-  font-size: 25px;
+  font-size: 45px;
   width:45%;
   height:45%;
 }
