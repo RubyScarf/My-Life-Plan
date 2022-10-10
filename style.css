@@ -68,7 +68,8 @@ div#bucket-list{
   position: absolute;
   text-align: center;
   font-size: 25px;
-  width:100%;
+  width:45%;
+  height:45%;
 }
 /*------------------------ Footer ------------------------*/
 #page-container {
