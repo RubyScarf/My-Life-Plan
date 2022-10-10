@@ -65,12 +65,23 @@ div#bucket-list{
   height:100%;
 }
 .academic, .personal, .social, .bucket{
-  text-align: center;
-  font-size: 45px;
-  width:25%;
-  height:25%;
-  font-family:Brush Script MT(cursive);
+    text-align: center;
+    font-size: 45px;
+    /* width: 25%; */
+    /* height: 25%; */
+    font-family: Brush Script MT(cursive);
+    /* text-underline-position: under; */
+    text-decoration: none;
+    /* position: absolute; */
+    /* white-space: pre-line; */
+    /* word-spacing: normal; */
+    outline: auto;
+    display: inline-table;
 }
+a.academic, a.personal, a.social, a.bucket{
+  margin:50%
+}
+
 /*------------------------ Footer ------------------------*/
 #page-container {
   position: relative;
