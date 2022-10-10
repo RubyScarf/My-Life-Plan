@@ -39,3 +39,7 @@ a{
   font-size:20px;
   transition: 2s
 }
+img{
+  width:100px;
+  height:auto;
+}
