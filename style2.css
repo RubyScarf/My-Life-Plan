@@ -2,6 +2,7 @@ body{
   background-color:black;
   color:white;
   font-size:50px;
+  text-align:center;
 }
 ol{
   color:#4ec946;
@@ -12,3 +13,4 @@ ul{
   font-family:Papyrus(cursive);
   color:white;
 }
+
