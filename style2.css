@@ -43,7 +43,7 @@ img{
   width:500px;
   height:auto;
   text-align:center;
-  filter:hue-rotate(90deg);
+  filter:rotation(180deg);
   transition: 2s;
 }
 img:hover{
