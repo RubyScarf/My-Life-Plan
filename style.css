@@ -29,6 +29,10 @@ a{
   text-align:center;
 }
 /*------------------------ DIVS ------------------------*/
+hr{
+  margin:5% 0% 5% 0%;
+}
+
 div#academic{
   background-color:#87cefa;
 }
