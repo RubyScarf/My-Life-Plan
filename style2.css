@@ -43,5 +43,12 @@ img{
   width:500px;
   height:auto;
   text-align:center;
-  filter:grayscale;
+  filter:hue-rotate(90deg);
+  transition: 2s;
+}
+img:active{
+transition:2s;
+width:300px;
+height:auto;
+filter:hue-rotate(270deg);
 }
