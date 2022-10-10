@@ -31,6 +31,7 @@ a{
 /*------------------------ DIVS ------------------------*/
 div#academic{
   background-color:#87cefa;
+  padding:5% 0% 5% 0%;
 }
 
 .academic{
@@ -79,7 +80,7 @@ div#bucket-list{
     display: inline-table;
 }
 a.academic, a.personal, a.social, a.bucket{
-  margin:30%
+  margin:25%
 }
 
 /*------------------------ Footer ------------------------*/
